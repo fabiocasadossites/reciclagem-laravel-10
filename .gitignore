@@ -1,0 +1,14 @@
+*.pdf
+*.env
+*.txt
+*.key
+*.crt
+*.sql
+*.zip
+*.cer
+*.pub
+*.htaccess
+*tinymce/
+*vendor/
+/.vscode
+/.docker
